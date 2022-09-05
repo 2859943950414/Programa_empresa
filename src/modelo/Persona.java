@@ -61,5 +61,7 @@ abstract class Persona {
     }
    
     protected void agregar(){}
-    
+    //estas dos se utilizaron para para el btn actualizar y eliminar continua en cliente
+   protected void modificar (){} 
+   protected void eliminar(){}
 }//esta es la llave final del programa
